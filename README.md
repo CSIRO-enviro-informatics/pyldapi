@@ -9,5 +9,5 @@ Developer and Point of Contact:
 **Nicholas Car**  
 *Senior Experimental Scientist*  
 CSIRO Land & Water  
-`nicholas.car@csiro.au <nicholas.car@csiro.au>`_  
-`http://orcid.org/0000-0002-8742-7730 <http://orcid.org/0000-0002-8742-7730>`_  
+<nicholas.car@csiro.au>  
+<http://orcid.org/0000-0002-8742-7730>
